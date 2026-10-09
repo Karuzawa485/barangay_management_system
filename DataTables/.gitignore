@@ -1,0 +1,4 @@
+/db/
+/uploads/*
+!/uploads/logo.png
+.env
